@@ -1,0 +1,12 @@
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.Home.resources
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\bin\Debug\ASM.exe.config
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\bin\Debug\ASM.exe
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\bin\Debug\ASM.pdb
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.exe
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.pdb
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.Login.resources
+C:\Users\Acer\OneDrive\Desktop\IT0601-Programming\ASM\ASM\obj\Debug\ASM.ManaClass.resources
